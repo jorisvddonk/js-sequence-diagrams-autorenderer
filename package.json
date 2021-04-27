@@ -1,0 +1,11 @@
+{
+  "name": "js-sequence-diagrams-autorenderer",
+  "version": "1.0.1",
+  "description": "Autorenderer for js-sequence-diagrams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joris van de Donk <jorisvddonk@gmail.com>",
+  "license": "MIT"
+}
