@@ -13,3 +13,5 @@ Simply start writing a js-sequence-diagrams file, then append the following line
 and finally save as .html
 
 Now you can simply open the .html in a browser and it will automatically render the sequence diagram!
+
+See `test.html` for an example!
